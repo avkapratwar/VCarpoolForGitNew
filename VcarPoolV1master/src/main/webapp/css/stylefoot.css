@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+.ct-footer {
+  background-color: #000;
+  padding-top: 20px;
+  margin-top: 20px;
+  position: relative;
+}
+
+.ct-footer-post .inner-left,
+.ct-footer-post .inner-right {
+  padding: 20px 0;
+}
+
